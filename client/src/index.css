@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom_font {
+    font-family: 'Titillium Web', sans-serif;
+}

@@ -1,0 +1,25 @@
+
+.link{
+    /* padding : 8px  !important;  */
+    overflow: hidden;
+    height: 100% ;
+    border-radius: 5px ;
+    font-weight: bold;
+}
+.active_link{
+    background-color: #eb5e28  ;
+    color : #fff !important; 
+}
+
+@media (max-width : 767px) {
+    .header__bg{
+        min-height: 0 ;
+    }
+    .logo__container{
+        width : 35px 
+    }
+    .link{
+        text-align: center;
+        margin: 10px 0 ; 
+    }
+}

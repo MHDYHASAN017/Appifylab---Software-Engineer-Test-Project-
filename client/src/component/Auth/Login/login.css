@@ -1,0 +1,15 @@
+.login__redirect{
+    width: 100% ; 
+    background: #eb5e28 ;
+    /* color : #fff  */
+    padding : 5px 8px ; 
+    text-transform: capitalize;
+    text-align: center;
+    border-radius: 3px ;
+    text-decoration: none ;
+    color : #fff 
+}
+
+.login__redirect:hover{
+    color : #fff ; 
+}

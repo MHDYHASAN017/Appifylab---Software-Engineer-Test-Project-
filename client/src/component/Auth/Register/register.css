@@ -1,0 +1,15 @@
+.register__redirect{
+    width: 100% ; 
+    background: #f94144 ;
+    /* color : #fff  */
+    padding : 5px 8px ; 
+    text-transform: capitalize;
+    text-align: center;
+    border-radius: 3px ;
+    text-decoration: none ;
+    color : #fff 
+}
+
+.register__redirect:hover{
+    color : #fff ; 
+}
