@@ -19,7 +19,7 @@ also can delete user.
 3.Users can be perform quiz after registration then login , can view total percentage of score after finish time of quiz , and submit quiz.
 can view own profile and transection.
 
-To Run in Local Computer , must Add "proxy : http://localhost:8080"
+To Run in Local Computer , must Add "proxy : http://localhost:8080" in client/package.json
 
 Thank you. :)
 
