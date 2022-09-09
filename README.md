@@ -21,6 +21,19 @@ can view own profile and transection.
 
 To Run in Local Computer , must Add "proxy : http://localhost:8080" in client/package.json
 
+login as admin : 
+email : admin@gmail.com
+password : pass1234
+
+login as premium user : 
+email : mhdy@gmail.com
+password : pass1234
+
+login as free user : 
+email : mhdy2@gmail.com
+password :  pass1234
+
+
 Thank you. :)
 
 
